@@ -1,14 +1,15 @@
-.jumbotron {
-    background-image: url("./Resources/bacteria.jpeg");
-    background-size: 50% 50%;
+body {
+
+    background-color: rgb(109, 43, 129);
+  }
+
+  .jumbotron {
+    background-image: url("bacteria.jpeg");
+    background-size: 100% 100%;
     text-align: center;
-    color: yellow;
-    font:x-large;
-}
+  }
 
-h5 {
-  color:rgb(20, 89, 158);
-  font-weight:600;
-  font-size: large;
-}
-
+  .tag {
+    font-family: verdana; 
+    font-size: 1rem;
+   }  
